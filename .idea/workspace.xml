@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
 
     <list default="true" id="bab1f853-b8d0-4841-8105-3b772246ce9f" name="Changes" comment="">
+
       <change afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/sabrina/model/Matriz.java" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 
     </list>
@@ -40,12 +42,14 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+
                     <option name="branchName" value="Sabrina" />
                     <option name="lastUsedInstant" value="1657215849" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1657215848" />
+
                   </RecentBranch>
                 </list>
               </option>
@@ -66,6 +70,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -76,15 +81,18 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
+
   }
-}]]></component>
+}</component>
   <component name="RunManager">
+
     <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.elitesapiens.sabrina.model.Matriz" />
       <module name="Matriz01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.elitesapiens.sabrina.model.*" />
+
 
           <option name="ENABLED" value="true" />
         </pattern>
@@ -96,7 +104,9 @@
     <recent_temporary>
       <list>
 
+
         <item itemvalue="Application.Matriz" />
+
 
       </list>
     </recent_temporary>
@@ -111,7 +121,9 @@
       <updated>1657214919598</updated>
 
       <workItem from="1657214922047" duration="1000" />
+
       <workItem from="1657215791826" duration="2175000" />
+
 
     </task>
     <option name="localTasksCounter" value="2" />
@@ -131,6 +143,8 @@
       </map>
     </option>
   </component>
+
+
 
 
 </project>
