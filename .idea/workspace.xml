@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
 
     <list default="true" id="bab1f853-b8d0-4841-8105-3b772246ce9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/vanessa/model/Mat.java" afterDir="false" />
+
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/sabrina/model/Matriz.java" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 
     </list>
@@ -40,12 +42,14 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="Vanessa" />
-                    <option name="lastUsedInstant" value="1657215740" />
+
+                    <option name="branchName" value="Sabrina" />
+                    <option name="lastUsedInstant" value="1657215849" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1657215739" />
+                    <option name="lastUsedInstant" value="1657215848" />
+
                   </RecentBranch>
                 </list>
               </option>
@@ -67,20 +71,28 @@
     <option name="showLibraryContents" value="true" />
   </component>
 
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Mat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.elitesapiens.vanessa.model.Mat" />
+
+    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elitesapiens.sabrina.model.Matriz" />
       <module name="Matriz01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.elitesapiens.vanessa.model.*" />
+          <option name="PATTERN" value="com.elitesapiens.sabrina.model.*" />
+
 
           <option name="ENABLED" value="true" />
         </pattern>
@@ -91,7 +103,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mat" />
+
+
+        <item itemvalue="Application.Matriz" />
+
 
       </list>
     </recent_temporary>
@@ -106,7 +121,9 @@
       <updated>1657214919598</updated>
 
       <workItem from="1657214922047" duration="1000" />
-      <workItem from="1657215678584" duration="2139000" />
+
+      <workItem from="1657215791826" duration="2175000" />
+
 
     </task>
     <option name="localTasksCounter" value="2" />
@@ -126,5 +143,8 @@
       </map>
     </option>
   </component>
+
+
+
 
 </project>
