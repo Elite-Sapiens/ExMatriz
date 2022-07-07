@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
     <list default="true" id="bab1f853-b8d0-4841-8105-3b772246ce9f" name="Changes" comment="">
-
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/sabrina/model/Matriz.java" afterDir="false" />
-
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/paulo/model/Matriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
 
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -42,14 +41,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-
-                    <option name="branchName" value="Sabrina" />
-                    <option name="lastUsedInstant" value="1657215849" />
+                    <option name="branchName" value="paulo" />
+                    <option name="lastUsedInstant" value="1657215626" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1657215848" />
-
+                    <option name="lastUsedInstant" value="1657215625" />
                   </RecentBranch>
                 </list>
               </option>
@@ -60,7 +57,6 @@
       </RecentBranches>
     </option>
   </component>
-
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -75,25 +71,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
-
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-
     <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.elitesapiens.sabrina.model.Matriz" />
+      <option name="MAIN_CLASS_NAME" value="com.elitesapiens.paulo.model.Matriz" />
       <module name="Matriz01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.elitesapiens.sabrina.model.*" />
-
-
+          <option name="PATTERN" value="com.elitesapiens.paulo.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,13 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-
-
         <item itemvalue="Application.Matriz" />
-
-
       </list>
     </recent_temporary>
   </component>
@@ -121,10 +116,7 @@
       <updated>1657214919598</updated>
 
       <workItem from="1657214922047" duration="1000" />
-
-      <workItem from="1657215791826" duration="2175000" />
-
-
+      <workItem from="1657215516570" duration="2583000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -143,8 +135,4 @@
       </map>
     </option>
   </component>
-
-
-
-
 </project>
