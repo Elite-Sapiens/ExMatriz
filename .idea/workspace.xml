@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="bab1f853-b8d0-4841-8105-3b772246ce9f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/elitesapiens/sabrina/model/Matriz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -53,6 +56,7 @@
       </RecentBranches>
     </option>
   </component>
+
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -66,6 +70,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -80,6 +85,7 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.elitesapiens.sabrina.model.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,7 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
+
         <item itemvalue="Application.Matriz" />
+
       </list>
     </recent_temporary>
   </component>
@@ -101,9 +109,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657214919598</updated>
+
       <workItem from="1657214922047" duration="1000" />
       <workItem from="1657215791826" duration="2175000" />
+
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,4 +131,6 @@
       </map>
     </option>
   </component>
+
+
 </project>
